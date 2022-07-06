@@ -7,7 +7,7 @@ To make it work we create a VueEx-like solution that only uses 7 lines of code a
 
 What you need to do
 this repo contains the src folder from a side menu Ionic Vue Project
-I have also included a [Readme 2 - What was Changed & Added](/Readme 2 - What was Changed & Added.txt) file explaining the changes to default files and what I've added to make it work.
+I have also included a <a href="/Readme 2 - What was Changed & Added.txt">Readme 2 - What was Changed & Added</a> file explaining the changes to default files and what I've added to make it work.
 You can drop the files in a new template and start using it, play around to figure out how it works. or you can tear it apart and copy-paste what you need to add to your own project.
 Watch the video above for a full tutorial on what to use and how it works!
 
