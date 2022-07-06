@@ -1,8 +1,10 @@
 1-Theme-Switcher-Ionic-Vue
 
-<a href="https://youtu.be/5BE3EksCj3c" rel="nofollow" style:"align=center">
+<div align="center">
+<a href="https://youtu.be/5BE3EksCj3c" rel="nofollow">
   <img src="https://i9.ytimg.com/vi/5BE3EksCj3c/mqdefault.jpg?v=62c4f86f&sqp=CMiflJYG&rs=AOn4CLApYEqlkCYLSM6XQ4XASxdOCsS0ig" style="max-width: 100%;">
 </a>
+  </div>
 
 Making a theme switcher for an Ionic Vue app can be a pain. Making it fully responsive without reloading, or flickering isn't as obvious as you would like due to how Ionic renders its CSS (or sass) files app-wide. Making the CSS file in main.ts dynamic doesn't work as it doesn't apply changes reactively.
 
