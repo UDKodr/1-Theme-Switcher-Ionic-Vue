@@ -1,7 +1,7 @@
 <div align="center">
 <a href="https://youtu.be/5BE3EksCj3c" rel="nofollow">
   <img src="https://i9.ytimg.com/vi/5BE3EksCj3c/mqdefault.jpg?v=62c4f86f&sqp=CMiflJYG&rs=AOn4CLApYEqlkCYLSM6XQ4XASxdOCsS0ig" style="max-width: 100%;">
-</a>
+  </br>Watch the Tutorial Video</a>
   </div>
 
 <h3>Ionic Vue Theme Switcher</h3>
@@ -19,10 +19,10 @@ Watch the video above for a full tutorial on what to use and how it works!
 --This repo can be found at:
 https://github.com/UDKodr/1-Theme-Switcher-Ionic-Vue/
 
---UDKodr Links
-Website - https://www.UDKodr.com
-GitHub - https://github.com/UDKodr
-Youtube - https://www.youtube.com/channel/UCWHcWrwsmG-7H1_fjQAwU-w
-Twitter - https://twitter.com/UDKodr
-Patreon - https://www.patreon.com/UDKodr
-Play Store - https://play.google.com/store/apps/dev?id=4828316913700075617
+<h3>UDKodr Links</h3>
+Website - https://www.UDKodr.com</br>
+GitHub - https://github.com/UDKodr</br>
+Youtube - https://www.youtube.com/channel/UCWHcWrwsmG-7H1_fjQAwU-w</br>
+Twitter - https://twitter.com/UDKodr</br>
+Patreon - https://www.patreon.com/UDKodr</br>
+Play Store - https://play.google.com/store/apps/dev?id=4828316913700075617</br>
