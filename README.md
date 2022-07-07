@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://youtu.be/5BE3EksCj3c" rel="nofollow">
-  <img src="https://github.com/UDKodr/1-THeme-Switcher-Ionic-Vue/blob/main/src/Images/1-ThemeSwitcher.jpg?raw=true" style="max-width: 100%;">
+  <img src="https://github.com/UDKodr/1-THeme-Switcher-Ionic-Vue/blob/main/1-ThemeSwitcher.jpg?raw=true" style="max-width: 100%;">
   </br>Watch the Tutorial Video</a>
   </div>
 
