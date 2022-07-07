@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://youtu.be/5BE3EksCj3c" rel="nofollow">
-  <img src="https://i9.ytimg.com/vi/5BE3EksCj3c/mqdefault.jpg?v=62c4f86f&sqp=CMiflJYG&rs=AOn4CLApYEqlkCYLSM6XQ4XASxdOCsS0ig" style="max-width: 100%;">
+  <img src="https://github.com/UDKodr/1-THeme-Switcher-Ionic-Vue/blob/main/src/Images/1-ThemeSwitcher.jpg?raw=true" style="max-width: 100%;">
   </br>Watch the Tutorial Video</a>
   </div>
 
@@ -18,6 +18,10 @@ Watch the video above for a full tutorial on what to use and how it works!
 
 --This repo can be found at:
 https://github.com/UDKodr/1-Theme-Switcher-Ionic-Vue/
+
+<h3>Check out these other related repos</h3>
+Layout Switcher - https://github.com/UDKodr/2-Layout-Switcher-Ionic-Vue
+Layout-Theme-Switcher-Combo-Ionic-Vue - https://github.com/UDKodr/2-Bonus-Layout-Theme-Switcher-Combo-Ionic-Vue
 
 <h3>UDKodr Links</h3>
 Website - https://www.UDKodr.com</br>
