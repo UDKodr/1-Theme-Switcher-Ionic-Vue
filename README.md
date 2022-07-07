@@ -26,3 +26,4 @@ Youtube - https://www.youtube.com/channel/UCWHcWrwsmG-7H1_fjQAwU-w</br>
 Twitter - https://twitter.com/UDKodr</br>
 Patreon - https://www.patreon.com/UDKodr</br>
 Play Store - https://play.google.com/store/apps/dev?id=4828316913700075617</br>
+UDKodr Logo is a Trademark of UDKodr LLC and Copywrite 2022 and may not be used
